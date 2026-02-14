@@ -14,10 +14,12 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 End the program
 ## Program:
+```
 import numpy as np
 A=np.array([[1,2,3],[3,6,9])
 rank=np.linalg.matrix_rank(A)
 print(rank)
+```
 ## Output:
 <img width="1348" height="712" alt="Screenshot 2026-02-14 165633" src="https://github.com/user-attachments/assets/c7a1e4f1-9dee-4a79-9bb9-6d2c617874c3" />
 
